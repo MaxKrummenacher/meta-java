@@ -98,6 +98,7 @@ EXTRA_OECONF = " \
 	--disable-nss \
 	--disable-system-lcms \
 	--disable-bootstrap \
+	--disable-system-kerberos \
 	\
         --enable-zero \
 	\
